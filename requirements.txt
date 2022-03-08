@@ -1,0 +1,8 @@
+pyfiglet
+datetime
+scapy
+logging
+ipaddress
+termcolor
+flask
+flask_table
