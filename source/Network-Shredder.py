@@ -79,7 +79,7 @@ def print_banner():
 		for line in f:
 			print(colored(line,'magenta',attrs=['blink']),end='')
 	print(colored("|_ Version :", 'red',attrs=['bold']),colored(" 1.0#beta","cyan"))
-	print(colored("|_ Authors :", 'red',attrs=['bold']),colored(" AOUAJ & RAHALI","cyan"))
+	print(colored("|_ Authors :", 'red',attrs=['bold']),colored(" OUSSAMA AIT MANSSOUR","cyan"))
 	print(colored("|_ Usage :",'red',attrs=['bold']),colored(" python3 Network-Shredder.py rules.txt","cyan"))
 
 
