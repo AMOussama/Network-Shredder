@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 ```bash
 python3 Network-Shredder.py -h
 ````
-![](./source/static/shredder.PNG)
+![](./source/static/shredder.png)
 
 ### Live mode 
 
