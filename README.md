@@ -1,7 +1,7 @@
 # Network-Shredder
 
 Network-Shredder is a python based NIDS.
-![](./source/static/logo.png)
+![](./source/staNetwork-Shreddertic/logo.png)
 
 
 ## Installation
