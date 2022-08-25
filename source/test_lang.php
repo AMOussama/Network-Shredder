@@ -1,3 +1,3 @@
 <?php
-echo file_get_contents("en_lang.php");
+echo file_get_contents("index.php");
 ?>
