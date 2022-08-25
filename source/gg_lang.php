@@ -1,3 +1,3 @@
 <?php
-echo file_get_contents("/path/to/file");
+echo file_get_contents("fr_lang.php");
 ?>
